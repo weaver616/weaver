@@ -11,13 +11,18 @@
    
    
 调试 
-   （1）C++  JAVA  Multity Thread Debug   使用 gdb-multiarch
+ （1）C++  JAVA  Multity Thread Debug   使用 gdb-multiarch
    https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt433/guides/files/DebuggingGuide.pdf （安装 gdb-multiarch）
    https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt433/course-info  网站其它参考内容 
 
 
+
 （2） Remote Containerized Debugging with VSCode C/C++
-https://www.vinnie.work/blog/2020-10-22-vscode-c-debug/
+ https://www.vinnie.work/blog/2020-10-22-vscode-c-debug/
+
+   
+ (3)  https://www.open-mpi.org/faq/?category=running#run-with-ddt    DDT Debugger
+      Open MPI Slides and Presentations
 
     
     
