@@ -8,13 +8,22 @@
    Most training materials are kept online. They cover a range of topics related to parallel programming and using LC's HPC systems.
    For HPC related training materials beyond LC, see "Other HPC Training Resources" on the Training  
    它们涵盖了与并行编程和使用LC的HPC系统相关的一系列主题
+   
+   
+调试 
+   （1）C++  JAVA  Multity Thread Debug   使用 gdb-multiarch
+   https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt433/guides/files/DebuggingGuide.pdf （安装 gdb-multiarch）
+   https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt433/course-info  网站其它参考内容 
 
 
-
+（2） Remote Containerized Debugging with VSCode C/C++
+https://www.vinnie.work/blog/2020-10-22-vscode-c-debug/
 
     
     
 综合网站
 （1）https://eli.thegreenplace.net/archives/all
      星级 ****  收藏了个人的使用工具，Window，Linux等；个人技术博客 
+ 
+ （2）https://www.vinnie.work/blog/2020-10-22-vscode-c-debug/
  
